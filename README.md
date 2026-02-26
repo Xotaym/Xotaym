@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Xotaym
 
-<!--
-**Xotaym/Xotaym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Xotaym&fontSize=80" width="100%"/>
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-2F333A?style=for-the-badge&logo=roblox&logoColor=white)
+
+- 🐍 **Python**: Advanced automation and backend logic.
+- 🎮 **Luau**: High-performance game scripting and Roblox engine optimization.
+- 🎯 **C#**: Software architecture and Unity/.NET development.
+
+---
+
+### 🤝 Contact Information
+- **Discord**: `xotaym_07969`
